@@ -29,7 +29,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.shields.io/badge/▶-Watch%20Demo-red)](https://github.com/kushal-s0/Development-Showcase/blob/main/media/demo.mp4)
+[![Watch the Demo](https://img.shields.io/badge/▶-Watch%20Demo-red)](https://drive.google.com/file/d/1Z0XdRoZj3TsDFXav0gMUenIBq0q-RkPo/view?usp=sharing)
 
 
 My personal portfolio <a href="https://portfolio1-blue-zeta.vercel.app/" target="_blank">Kushal Soni</a> showcases my various projects, technical skills, resume, and GitHub contributions. This website provides direct access to my projects with both GitHub repository links and live demo links where applicable.
