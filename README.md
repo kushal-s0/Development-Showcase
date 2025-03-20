@@ -27,6 +27,11 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## About the Project
 
+## 🎥 Demo Video
+
+[![Watch the Demo](https://img.shields.io/badge/▶-Watch%20Demo-red)](https://github.com/kushal-s0/Development-Showcase/blob/main/media/demo.mp4)
+
+
 My personal portfolio <a href="https://portfolio1-blue-zeta.vercel.app/" target="_blank">Kushal Soni</a> showcases my various projects, technical skills, resume, and GitHub contributions. This website provides direct access to my projects with both GitHub repository links and live demo links where applicable.
 
 Additionally, I have integrated a dynamic GitHub contribution graph on my webpage to visualize my coding activity and contributions over time. This helps visitors track my development progress and contributions to open-source projects.
